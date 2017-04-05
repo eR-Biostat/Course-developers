@@ -15,7 +15,8 @@ For each course, several type of course materials shoudl be avilabe:
 
 ## What you can download from this repository ?
 
-* A Tex file that can be sued to produce slides for the course. 
+* A Tex file that can be sued to produce slides for a course (example: slides for the class about simple linear regression). 
+* Corresponding set of slides.
 
 ## Contact information
 If you want to develop/contribute a course within the **>eR-Biostat** initative please contact ziv.shkedy@uhasselt.be
