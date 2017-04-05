@@ -13,6 +13,10 @@ For each course, several type of course materials shoudl be avilabe:
 * R programs, ready to use, which contain all data and R code for the all examples and illustrations discussed in the course.
 * Homework assignments and exams.
 
+## What you can download from this repository ?
+
+* A Tex file that can be sued to produce slides for the course. 
+
 ## Contact information
 If you want to develop/contribute a course within the **>eR-Biostat** initative please contact ziv.shkedy@uhasselt.be
 
