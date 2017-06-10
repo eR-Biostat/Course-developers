@@ -19,6 +19,6 @@ For each course, several type of course materials shoudl be avilabe:
 * Corresponding set of slides.
 
 ## Contact information
-If you want to develop/contribute a course within the **>eR-Biostat** initative please contact ziv.shkedy@uhasselt.be
+If you want to develop/contribute a course within the **>eR-Biostat** initative please contact us by email erbiostat@gmail.com
 
 
